@@ -1,0 +1,12 @@
+{
+  "name": "prueba-de-concepto---realmessay",
+  "version": "1.0.0",
+  "main": "Prueba.js",
+  "scripts": {
+    "prueba": "node Prueba.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Prueba de concepto de RealmEssay. Para correr: npm run prueba",
+  "type": "module"
+}
